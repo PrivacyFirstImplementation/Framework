@@ -1,85 +1,111 @@
 # Framework
-To identify, learn and implement generic Privacy First Framework that applies to almost all privacy laws like GDPR (Europe), DPDP (India), CCPA (California US) 
 
-Comprehensive list of laws around privacy are as below
+To identify, learn and implement a generic Privacy First Framework that applies to almost all privacy laws like GDPR (Europe), DPDP (India), CCPA (California US).
 
-Americas
+## Comprehensive List of Privacy Laws
 
-United States
+### Americas
+
+#### United States
 
 While there is no comprehensive federal data privacy law, several states have enacted their own legislation:
 
-California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA)
+- California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA)
+- Virginia Consumer Data Protection Act (CDPA)
+- Colorado Privacy Act (CPA)
+- Utah Consumer Privacy Act (UCPA)
+- Connecticut Data Privacy Act (CTDPA)
+- Delaware Personal Data Privacy Act (DPDPA)
 
-Virginia Consumer Data Protection Act (CDPA)
+#### Canada
 
-Colorado Privacy Act (CPA)
+- Personal Information Protection and Electronic Documents Act (PIPEDA)
+- Consumer Privacy Protection Act (CPPA) - proposed
 
-Utah Consumer Privacy Act (UCPA)
+#### Brazil
 
-Connecticut Data Privacy Act (CTDPA)
+- Lei Geral de Proteção de Dados (LGPD)
 
-Delaware Personal Data Privacy Act (DPDPA)
+### Europe
 
-Canada
+#### Switzerland
 
-Personal Information Protection and Electronic Documents Act (PIPEDA)
+- Federal Act on Data Protection (nFADP)
 
-Consumer Privacy Protection Act (CPPA) - proposed
+#### Turkey
 
-Brazil
+- Law on Protection of Personal Data
 
-Lei Geral de Proteção de Dados (LGPD)
-Europe
+#### United Kingdom
 
-Switzerland: Federal Act on Data Protection (nFADP)
+- UK GDPR and Data Protection Act 2018
 
-Turkey: Law on Protection of Personal Data
+### Asia-Pacific
 
-United Kingdom: UK GDPR and Data Protection Act 2018
+#### China
 
-Asia-Pacific
+- Personal Information Protection Law (PIPL)
 
-China: Personal Information Protection Law (PIPL)
+#### Japan
 
-Japan: Act on the Protection of Personal Information (APPI)
+- Act on the Protection of Personal Information (APPI)
 
-South Korea: Personal Information Protection Act (PIPA)
+#### South Korea
 
-India: Digital Personal Data Protection (DPDP) Act
+- Personal Information Protection Act (PIPA)
 
-Thailand: Personal Data Protection Act (PDPA)
+#### India
 
-Singapore: Personal Data Protection Act (PDPA)
+- Digital Personal Data Protection (DPDP) Act
 
-New Zealand: Privacy Act
+#### Thailand
 
-Middle East and Africa
+- Personal Data Protection Act (PDPA)
 
-Israel: Data Security Regulations
+#### Singapore
 
-Bahrain: Personal Data Protection Law
+- Personal Data Protection Act (PDPA)
 
-Saudi Arabia: Personal Data Protection Law (PDPL)
+#### New Zealand
 
-Nigeria: Nigeria Data Protection Regulation (NDPR)
+- Privacy Act
 
-South Africa: Protection of Personal Information Act (POPIA)
+### Middle East and Africa
 
-Kenya: Data Protection Act
+#### Israel
 
-# Key Features
+- Data Security Regulations
+
+#### Bahrain
+
+- Personal Data Protection Law
+
+#### Saudi Arabia
+
+- Personal Data Protection Law (PDPL)
+
+#### Nigeria
+
+- Nigeria Data Protection Regulation (NDPR)
+
+#### South Africa
+
+- Protection of Personal Information Act (POPIA)
+
+#### Kenya
+
+- Data Protection Act
+
+## Key Features
+
 Many of these laws share similar features with the GDPR, including:
-Extraterritorial applicability
 
-Consent requirements for data processing
-Data subject rights (access, correction, deletion)
+- Extraterritorial applicability
+- Consent requirements for data processing
+- Data subject rights (access, correction, deletion)
+- Data breach notification requirements
+- Appointment of data protection officers
+- Restrictions on cross-border data transfers
+- Significant penalties for non-compliance
 
-Data breach notification requirements
-
-Appointment of data protection officers
-
-Restrictions on cross-border data transfers
-
-Significant penalties for non-compliance
-However, the specific requirements, scope, and enforcement mechanisms can vary significantly between jurisdictions. Companies operating globally need to carefully assess their obligations under each applicable law.
+However, the specific requirements, scope, and enforcement mechanisms can vary significantly between jurisdictions. Companies operating globally need to carefully assess their obligations under each jurisdiction.
