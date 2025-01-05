@@ -1,0 +1,26 @@
+CCPA/CPRA: No specific data residency requirement, but data transfer must comply with the law.
+AWS: US East (N. Virginia), US West (Oregon)
+Azure: East US, West US
+GCP: US Central, US East
+Oracle: US East (Ashburn), US West (Phoenix)
+IBM: US South, US East
+Tencent: US Silicon Valley
+Ola Krutrim: US West
+European Union
+GDPR: Requires data to be stored within the EU or in countries with equivalent data protection laws.
+AWS: EU (Frankfurt), EU (Ireland)
+Azure: North Europe, West Europe
+GCP: Europe West, Europe North
+Oracle: EU (Amsterdam), EU (Frankfurt)
+IBM: EU North, EU South
+Tencent: Frankfurt
+Ola Krutrim: EU Central
+India
+DPDP: Requires data to be stored within India.
+AWS: Asia Pacific (Mumbai)
+Azure: Central India, South India
+GCP: Asia South
+Oracle: India (Mumbai)
+IBM: India South
+Tencent: India
+Ola Krutrim: India East
