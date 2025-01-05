@@ -206,13 +206,36 @@ Future AWS regions:
 
 ## 6. IBM Cloud (Kyndryl)
 
-IBM Cloud has data centers across several regions, with a total of 43 availability zones (AZs). The distribution is as follows:
+| Region Code | Region Name | Zone | Location |
+|-------------|-------------|------|----------|
+| us-south | Dallas | us-south-1 | Dallas, USA |
+| | | us-south-2 | Dallas, USA |
+| | | us-south-3 | Dallas, USA |
+| br-sao | Sao Paulo | br-sao-1 | Sao Paulo, Brazil |
+| | | br-sao-2 | Sao Paulo, Brazil |
+| | | br-sao-3 | Sao Paulo, Brazil |
+| ca-tor | Toronto | ca-tor-1 | Toronto, Canada |
+| | | ca-tor-2 | Toronto, Canada |
+| | | ca-tor-3 | Toronto, Canada |
+| us-east | Washington DC | us-east-1 | Washington DC, USA |
+| | | us-east-2 | Washington DC, USA |
+| | | us-east-3 | Washington DC, USA |
+| eu-de | Frankfurt | eu-de-1 | Frankfurt, Germany |
+| | | eu-de-2 | Frankfurt, Germany |
+| | | eu-de-3 | Frankfurt, Germany |
+| eu-gb | London | eu-gb-1 | London, UK |
+| | | eu-gb-2 | London, UK |
+| | | eu-gb-3 | London, UK |
+| eu-es | Madrid | eu-es-1 | Madrid, Spain |
+| | | eu-es-2 | Madrid, Spain |
+| | | eu-es-3 | Madrid, Spain |
+| au-syd | Sydney | au-syd-1 | Sydney, Australia |
+| | | au-syd-2 | Sydney, Australia |
+| | | au-syd-3 | Sydney, Australia |
+| jp-tok | Tokyo | jp-tok-1 | Tokyo, Japan |
+| | | jp-tok-2 | Tokyo, Japan |
+| | | jp-tok-3 | Tokyo, Japan |
 
-- North and South America: 19 AZs
-- Europe: 13 AZs
-- Asia Pacific: 11 AZs
-
-Specific location details are not provided in the search results.
 
 ## 7. Tencent Cloud
 
@@ -236,7 +259,7 @@ Specific location details are not provided in the search results.
 
 ## 8. OVHcloud
 
-Specific region codes and detailed locations are not provided in the search results. OVHcloud offers more than 80 open and reversible services across various locations globally.
+Specific region codes and detailed locations are not provided in the search results. OVHcloud offers more than 80 open and reversible services across various locations globally. [Check](https://www.ovhcloud.com/en-in/bare-metal/regions-availability/)
 
 ## 9. DigitalOcean
 
