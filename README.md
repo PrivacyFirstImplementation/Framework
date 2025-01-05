@@ -61,7 +61,7 @@ While there is no comprehensive federal data privacy law, several states have en
 
 #### India
 
-- [Digital Personal Data Protection (DPDP) Act](https://www.meity.gov.in/DPDP)
+- [Digital Personal Data Protection (DPDP) Act](https://www.meity.gov.in/data-protection-framework)
 
 #### Thailand
 
