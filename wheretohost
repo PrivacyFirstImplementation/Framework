@@ -1,26 +1,26 @@
-CCPA/CPRA: No specific data residency requirement, but data transfer must comply with the law.
-AWS: US East (N. Virginia), US West (Oregon)
-Azure: East US, West US
-GCP: US Central, US East
-Oracle: US East (Ashburn), US West (Phoenix)
-IBM: US South, US East
-Tencent: US Silicon Valley
-Ola Krutrim: US West
-European Union
-GDPR: Requires data to be stored within the EU or in countries with equivalent data protection laws.
-AWS: EU (Frankfurt), EU (Ireland)
-Azure: North Europe, West Europe
-GCP: Europe West, Europe North
-Oracle: EU (Amsterdam), EU (Frankfurt)
-IBM: EU North, EU South
-Tencent: Frankfurt
-Ola Krutrim: EU Central
-India
-DPDP: Requires data to be stored within India.
-AWS: Asia Pacific (Mumbai)
-Azure: Central India, South India
-GCP: Asia South
-Oracle: India (Mumbai)
-IBM: India South
-Tencent: India
-Ola Krutrim: India East
+| Country/State | Privacy Law                                                                 | AWS                         | Azure                 | GCP                      | Oracle                    | IBM                        | Ola Krutrim           |
+|---------------|-----------------------------------------------------------------------------|-----------------------------|-----------------------|--------------------------|---------------------------|----------------------------|------------------------|
+| California    | [CCPA, CPRA](https://oag.ca.gov/privacy/ccpa)                               | US West (N. California)     | West US, West US 2    | US West                  | US West (Phoenix, San Jose)| US West                   | US West                |
+| Virginia      | [CDPA](https://law.lis.virginia.gov/vacode/title59.1/chapter52/)            | US East (N. Virginia)       | East US               | US East                  | US East (Ashburn)         | US East                   | US East                |
+| Colorado      | [CPA](https://coag.gov/resources/colorado-privacy-act/)                     | US West (Oregon)            | West Central US       | US Central               | US West (Phoenix)         | US West                   | US West                |
+| Utah          | [UCPA](https://le.utah.gov/~2022/bills/static/SB0227.html)                  | US West (Oregon)            | West US               | US West                  | US West (Phoenix)         | US West                   | US West                |
+| Connecticut   | [CTDPA](https://portal.ct.gov/AG/Privacy/Privacy)                           | US East (N. Virginia)       | East US               | US East                  | US East (Ashburn)         | US East                   | US East                |
+| Delaware      | [DPDPA](https://legis.delaware.gov/BillDetail?LegislationId=129685)         | US East (N. Virginia)       | East US               | US East                  | US East (Ashburn)         | US East                   | US East                |
+| Canada        | [PIPEDA, CPPA](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/) | Canada (Central)            | Canada Central, Canada East | North America (Montreal)  | Canada Southeast (Toronto) | Canada (Toronto, Montreal) | Canada Central         |
+| Brazil        | [LGPD](https://www.gov.br/anpd/en/lgpd-english)                             | South America (São Paulo)   | Brazil South          | South America (São Paulo)| Brazil (São Paulo)        | Brazil (São Paulo)        | South America           |
+| Switzerland   | [nFADP](https://www.admin.ch/opc/en/classified-compilation/19920153/index.html) | EU (Frankfurt)              | West Europe           | Europe West              | EU (Frankfurt)            | EU South                  | EU Central              |
+| Turkey        | [Law on Protection of Personal Data](https://www.kvkk.gov.tr/Icerik/6649/Personal-Data-Protection-Law) | EU (Frankfurt)              | West Europe           | Europe West              | EU (Frankfurt)            | EU South                  | EU Central              |
+| United Kingdom| [UK GDPR](https://www.gov.uk/data-protection)                               | EU (London)                 | UK South, UK West     | Europe West (London)     | EU (London)               | EU North (UK)             | EU Central              |
+| China         | [PIPL](http://www.npc.gov.cn/englishnpc/c23934/202108/9d6b5d5fbf0945f7a4c791c71d10b5c6.shtml) | China (Beijing, Ningxia)    | China North, China East | Not available in China   | China (Beijing, Shanghai) | China (Beijing)           | China (Beijing, Shanghai) |
+| Japan         | [APPI](https://www.ppc.go.jp/en/legal/)                                     | Asia Pacific (Tokyo)        | Japan East, Japan West| Asia Northeast (Tokyo)   | Japan (Tokyo, Osaka)      | Japan (Tokyo)             | Asia Pacific (Tokyo)    |
+| South Korea   | [PIPA](https://www.pipc.go.kr/eng/engMain/engMain.do)                       | Asia Pacific (Seoul)        | Korea Central, Korea South | Asia Northeast (Seoul)  | South Korea (Seoul)       | South Korea (Seoul)       | Asia Pacific (Seoul)   |
+| India         | [DPDP](https://www.meity.gov.in/DPDP)                                       | Asia Pacific (Mumbai)       | Central India, South India | Asia South (Mumbai)    | India (Mumbai)            | India (Mumbai)            | India (Mumbai)          |
+| Thailand      | [PDPA](https://www.pdpc.go.th/)                                             | Asia Pacific (Singapore)    | Southeast Asia        | Asia Southeast (Singapore)| Asia Pacific (Singapore)  | Asia Pacific (Singapore)  | Asia Pacific (Singapore) |
+| Singapore     | [PDPA](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation)            | Asia Pacific (Singapore)    | Southeast Asia        | Asia Southeast (Singapore)| Asia Pacific (Singapore)  | Asia Pacific (Singapore)  | Asia Pacific (Singapore) |
+| New Zealand   | [Privacy Act](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html) | Asia Pacific (Sydney)      | Australia East        | Australia Southeast (Sydney) | Australia (Sydney)      | Australia (Sydney)        | Asia Pacific (Sydney)   |
+| Israel        | [Data Security Regulations](https://www.gov.il/en/departments/legalInfo/data_security_regulations) | Middle East (Bahrain)      | West Europe           | Europe West              | EU (Frankfurt)            | EU South                  | EU Central              |
+| Bahrain       | [Personal Data Protection Law](https://www.legalaffairs.gov.bh/AdvancedSearchDetails.aspx?id=153) | Middle East (Bahrain)      | UAE North             | Not available           | EU (Frankfurt)            | EU South                  | EU Central              |
+| Saudi Arabia  | [PDPL](https://www.my.gov.sa/wps/portal/snp/pages/news/newsDetails/CONT-news-101020211) | Middle East (Bahrain)      | UAE North             | Not available           | EU (Frankfurt)            | EU South                  | EU Central              |
+| Nigeria       | [NDPR](https://www.ndpr.ng/)                                                | Africa (Cape Town)          | South Africa North, South Africa West | Not available     | EU (Frankfurt)            | EU South                  | EU Central              |
+| South Africa  | [POPIA](https://www.gov.za/documents/protection-personal-information-act)   | Africa (Cape Town)          | South Africa North, South Africa West | Not available     | EU (Frankfurt)            | EU South                  | EU Central              |
+| Kenya         | [Data Protection Act](https://www.odpc.go.ke/data-protection-act/)          | Africa (Cape Town)          | South Africa North, South Africa West | Not available     | EU (Frankfurt)            | EU South                  | EU Central              |
