@@ -1,6 +1,6 @@
 # Framework
 
-The goal of this repository is to identify, learn about, and implement a generic Privacy First Framework that applies to almost all privacy laws.
+This repository aims to identify, learn about, and implement a generic Privacy First Framework that applies to almost all privacy laws.
 
 ## Comprehensive List of Privacy Laws
 
@@ -108,4 +108,4 @@ Many of these laws share similar features with the GDPR, including:
 - Restrictions on cross-border data transfers
 - Significant penalties for non-compliance
 
-However, the specific requirements, scope, and enforcement mechanisms can vary significantly between jurisdictions. Companies operating globally need to carefully assess their obligations under each applicable law.
+However, the specific requirements, scope, and enforcement mechanisms can vary significantly between jurisdictions. Companies operating globally need to assess their obligations under each applicable law carefully.
