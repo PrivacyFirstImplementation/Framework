@@ -1,6 +1,6 @@
 # Framework
 
-To identify, learn and implement a generic Privacy First Framework that applies to almost all privacy laws like GDPR (Europe), DPDP (India), CCPA (California US).
+The goal of this repository is to identify, learn about, and implement a generic Privacy First Framework that applies to almost all privacy laws.
 
 ## Comprehensive List of Privacy Laws
 
