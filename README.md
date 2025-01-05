@@ -13,7 +13,7 @@ While there is no comprehensive federal data privacy law, several states have en
 - [California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA)](https://oag.ca.gov/privacy/ccpa){:target="_blank"}
 - [Virginia Consumer Data Protection Act (CDPA)](https://law.lis.virginia.gov/vacode/title59.1/chapter52/){:target="_blank"}
 - [Colorado Privacy Act (CPA)](https://coag.gov/resources/colorado-privacy-act/){:target="_blank"}
-- [Utah Consumer Privacy Act (UCPA)](https://le.utah.gov/~2022/bills/static/SB0227.html){:target="_blank"}
+- [Utah Consumer Privacy Act (UCPA)](https://le.utah.gov/~2022/bills/static/SB0227.html)
 - [Connecticut Data Privacy Act (CTDPA)](https://portal.ct.gov/AG/Privacy/Privacy){:target="_blank"}
 - [Delaware Personal Data Privacy Act (DPDPA)](https://legis.delaware.gov/BillDetail?LegislationId=129685){:target="_blank"}
 
@@ -74,27 +74,27 @@ While there is no comprehensive federal data privacy law, several states have en
 
 #### Israel
 
-- [Data Security Regulations](https://www.gov.il/en/departments/legalInfo/data_security_regulations){:target="_blank"}
+- [Data Security Regulations](https://www.gov.il/en/departments/legalInfo/data_security_regulations)
 
 #### Bahrain
 
-- [Personal Data Protection Law](https://www.legalaffairs.gov.bh/AdvancedSearchDetails.aspx?id=153){:target="_blank"}
+- [Personal Data Protection Law](https://www.legalaffairs.gov.bh/AdvancedSearchDetails.aspx?id=153)
 
 #### Saudi Arabia
 
-- [Personal Data Protection Law (PDPL)](https://www.my.gov.sa/wps/portal/snp/pages/news/newsDetails/CONT-news-101020211){:target="_blank"}
+- [Personal Data Protection Law (PDPL)](https://www.my.gov.sa/wps/portal/snp/pages/news/newsDetails/CONT-news-101020211)
 
 #### Nigeria
 
-- [Nigeria Data Protection Regulation (NDPR)](https://www.ndpr.ng/){:target="_blank"}
+- [Nigeria Data Protection Regulation (NDPR)](https://www.ndpr.ng/)
 
 #### South Africa
 
-- [Protection of Personal Information Act (POPIA)](https://www.gov.za/documents/protection-personal-information-act){:target="_blank"}
+- [Protection of Personal Information Act (POPIA)](https://www.gov.za/documents/protection-personal-information-act)
 
 #### Kenya
 
-- [Data Protection Act](https://www.odpc.go.ke/data-protection-act/){:target="_blank"}
+- [Data Protection Act](https://www.odpc.go.ke/data-protection-act/)
 
 ## Key Features
 
