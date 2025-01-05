@@ -3,8 +3,8 @@
 This repository aims to identify, learn about, and implement a generic Privacy First Framework that applies to almost all privacy laws.
 
 1. [Where to host](https://github.com/PrivacyFirstImplementation/Framework/blob/main/WhereToHost.md)
-2. [B2B Scenario](https://github.com/PrivacyFirstImplementation/Framework/blob/main/WhereToHost.md)
-3. [B2C Scenario](https://github.com/PrivacyFirstImplementation/Framework/blob/main/WhereToHost.md)
+2. [B2B Scenario](https://github.com/PrivacyFirstImplementation/Framework/blob/main/B2B-Scenario.md)
+2. [B2C Scenario](https://github.com/PrivacyFirstImplementation/Framework/blob/main/B2C-Scenario.md)
 
 ## Comprehensive List of Privacy Laws
 
