@@ -1,3 +1,5 @@
+Technically AWS, Azure, and GCP cover most regions.
+
 | Country/State   | Privacy Law                                                                                                            | AWS                         | Azure                        | GCP                       | Oracle                    | IBM                        | Ola Krutrim           |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------|------------------------------|---------------------------|---------------------------|----------------------------|------------------------|
 | California      | [CCPA, CPRA](https://oag.ca.gov/privacy/ccpa)                                                                          | US West (N. California)     | West US, West US 2           | US West                   | US West (Phoenix, San Jose)| US West                   | US West                |
