@@ -101,7 +101,7 @@ While there is no comprehensive federal data privacy law, several states have en
 
 #### Kenya
 
-- [Data Protection Act](https://www.odpc.go.ke/data-protection-act/)
+- [Data Protection Act](https://www.odpc.go.ke/draft-the-data-protection-compliance-audit-regulations-2024/)
 
 ## Key Features
 
