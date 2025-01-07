@@ -2,7 +2,7 @@
 
 This repository aims to identify, learn about, and implement a generic Privacy First Framework that applies to almost all privacy laws.
 
-1. [What constitues PII](https://github.com/PrivacyFirstImplementation/Framework/blob/main/WhatIsPII.md)
+1. [What constitutes PII](https://github.com/PrivacyFirstImplementation/Framework/blob/main/WhatIsPII.md)
 2. [What are user's rights](https://github.com/PrivacyFirstImplementation/Framework/blob/main/UserRights.md)
 3. [Where to host PII](https://github.com/PrivacyFirstImplementation/Framework/blob/main/WhereToHost.md)
 4. [Requirements](https://github.com/PrivacyFirstImplementation/Framework/blob/main/Requirements.md)
